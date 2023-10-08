@@ -8,5 +8,5 @@ This certificate is achieved after completing 3 months of internship at Under 25
 
 
 ## Deep Learning with PyTorch: Zero to GANs
-[![deepLearning](./Certificate/GDG.png)]
+![deepLearning](./Certificate/GDG.png)
 This certificate was awarded after sucessfully completing the Dev fest and hackathon 
