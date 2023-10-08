@@ -1,7 +1,9 @@
 # My Work For all The Certification I have Done
 
 ## Under25
-![U25](https://github.com/Anishpuj/Certificates/blob/main/Certificate/F8E395FE-2905-4236-A366-EDFABF5761C9.jpg width="200")
+![U25](./Certificate/U25.jpg)
+You achieve this certificate after completing 3 months of internship at Under'25 Summit
+
 
 ## Deep Learning with PyTorch: Zero to GANs
 [![deepLearning](./CertificateJPG/deepLearning.jpg)](https://jovian.ai/certificate/MFQTGOJXGQ)
