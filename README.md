@@ -1,7 +1,7 @@
 # My Work For all The Certification I have Done
 
 ## Under25
-![U25](./Certificate/U25.jpg)
+<p> ![U25](./Certificate/U25.jpg) width="200" height="200" </p> 
 You achieve this certificate after completing 3 months of internship at Under'25 Summit
 
 
