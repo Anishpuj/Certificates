@@ -9,7 +9,7 @@ This certificate is achieved after completing 3 months of internship at Under 25
 This certificate was awarded after sucessfully completing the Dev fest and hackathon 
 
 ## Getting Started with Enterprise Data Science
-![IBM](./Certificate/IBM.pdf)
+![IBM](./Certificate/IBM.jpg)
 This certificate was awarded after learning experience, including hands-on experience, concepts, methods, and tools related to Data Science roles and their use of technology applied to enterprise projects.  
 
 
