@@ -1,7 +1,7 @@
 # My Work For all The Certification I have Done
 
 ## Under25
-<p><img align="left" src="https://github.com/Anishpuj/Certificates/assets/98417394/a069a0e0-8cf6-461b-814e-54d178376af6" alt="anishpuj width="500" height="500"/></p> <br> <br>
+<p><img align="center" src="https://github.com/Anishpuj/Certificates/assets/98417394/a069a0e0-8cf6-461b-814e-54d178376af6" alt="anishpuj width="500" height="500"/></p> <br> <br>
 
 
 
