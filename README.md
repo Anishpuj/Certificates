@@ -9,7 +9,7 @@
 <p><img align="left" src="https://github.com/Anishpuj/Certificates/assets/98417394/cfe22e05-43b7-4939-bc92-cfe3dc591505" alt="anishpuj width="500" height="500"" /></p><br>
 
 ## IBM : Getting Started with Enterprise Data Science
-<p><img align="center"src="https://github.com/Anishpuj/Certificates/files/12840975/Getting_Started_with_Enterprise_Data_Science_Badge20231008-43-ta5h8i.pdf" alt="anishpuj width="500" height="500"" /></p><br>
+<p><img align="left"src="https://github.com/Anishpuj/Certificates/files/12840975/Getting_Started_with_Enterprise_Data_Science_Badge20231008-43-ta5h8i.pdf" alt="anishpuj width="500" height="500"" /></p><br>
 
 
 
