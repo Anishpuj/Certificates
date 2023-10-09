@@ -6,7 +6,7 @@ This certificate is achieved after completing 3 months of internship at Under 25
 
 ## Google Developer Fest '22
 ![GDG](./Certificate/GDG.png)
-This certificate was awarded after sucessfully completing the Dev fest and hackathon 
+This certificate was awarded after sucessfully completing the Dev fest and hackathon conducted by GDG 
 
 ## Getting Started with Enterprise Data Science
 ![IBM](./Certificate/IBM.jpg)
