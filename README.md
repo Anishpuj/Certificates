@@ -13,12 +13,16 @@ This certificate was awarded after sucessfully completing the Dev fest and hacka
 This certificate was awarded after learning experience, including hands-on experience, concepts, methods, and tools related to Data Science roles and their use of technology applied to enterprise projects.  
 
 ## Mastering AI Tools 
-![IBM](./Certificate/GPT.jpg)
+![GPT](./Certificate/GPT.jpg)
 This certificate is awarded after attending a POWER AI tools workshop to increase productivity and efficiency using AI tools
 
 ## Python (Basic) Certificate 
-![IBM](./Certificate/PythonHR.jpg)
-This certificate is awarded after completing set of questions under 90 mins
+![PB](./Certificate/PythonHR.jpg)
+This certificate is awarded after completing set of questions under 90 mins for python
+
+## Problem Solving (Intermediate) Certificate 
+![PS](./Certificate/PS.jpg)
+This certificate is awarded after completing set of questions under 90 mins for Poblem solving which consists concepts of DSA 
 
 
 
