@@ -12,4 +12,9 @@ This certificate was awarded after sucessfully completing the Dev fest and hacka
 ![IBM](./Certificate/IBM.jpg)
 This certificate was awarded after learning experience, including hands-on experience, concepts, methods, and tools related to Data Science roles and their use of technology applied to enterprise projects.  
 
+## Mastering AI Tools 
+![IBM](./Certificate/GPT.jpg)
+This certificate is awarded after attending a POWER AI tools workshop to increase productivity and efficiency using AI tools
+
+
 
