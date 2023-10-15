@@ -16,5 +16,9 @@ This certificate was awarded after learning experience, including hands-on exper
 ![IBM](./Certificate/GPT.jpg)
 This certificate is awarded after attending a POWER AI tools workshop to increase productivity and efficiency using AI tools
 
+## Python (Basic) Certificate 
+![IBM](./Certificate/PythonHR.jpg)
+This certificate is awarded after completing set of questions under 90 mins
+
 
 
