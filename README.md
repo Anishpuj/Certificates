@@ -24,5 +24,8 @@ This certificate is awarded after completing set of questions under 90 mins for 
 ![PS](./Certificate/PS.jpg)
 This certificate is awarded after completing set of questions under 90 mins for Poblem solving which consists concepts of DSA 
 
+## Mastering AI Tools with MS OFFICE
+![GPT](./Certificate/GPTMS.jpg)
+This certificate is awarded after attending a POWER AI tools workshop to increase productivity and efficiency using AI tools in MS OFFICE and automating the process in excel
 
 
