@@ -28,4 +28,8 @@ This certificate is awarded after completing set of questions under 90 mins for 
 ![GPT](./Certificate/GPTMS.jpg)
 This certificate is awarded after attending a POWER AI tools workshop to increase productivity and efficiency using AI tools in MS OFFICE and automating the process in excel
 
+## CS50's Web Programming with Python and JavaScript
+![GPT](./Certificate/CS50's Web Programming with Python and JavaScript.png)
+This certificate is awarded after finishing the  CS50's Web Programming with Python and JavaScript.
+
 
